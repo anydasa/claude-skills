@@ -1,6 +1,6 @@
 # Claude Skills
 
-Open-source [skills](https://docs.claude.com/en/docs/claude-code/skills) for Claude Code that I use myself — solo founder, slow, for those interested in working patterns.
+Open-source [skills](https://docs.claude.com/en/docs/claude-code/skills) for Claude Code that I use myself as a solo founder. Sharing the patterns that pay off.
 
 ## Available Skills
 
@@ -29,7 +29,7 @@ curl https://raw.githubusercontent.com/anydasa/claude-skills/main/gemini-review/
 
 In Claude Code: just say "ask Gemini" or "second opinion".
 
-[Full documentation →](./gemini-review/README.md)
+[Full documentation →](./gemini-review/README.md) · [Why & how (Habr, RU)](https://habr.com/ru/articles/1028104/)
 
 ## License
 
